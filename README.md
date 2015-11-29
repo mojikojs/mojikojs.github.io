@@ -1,3 +1,5 @@
+※ 現在作成中です！！！
+
 # mojikojs.github.ioとは？
 
 MojikoJSの動作サンプルを表示するためのリポジトリです。サンプルは[こちらからみれます](https://mojikojs.github.io/)。
